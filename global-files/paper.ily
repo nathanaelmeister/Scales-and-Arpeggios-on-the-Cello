@@ -1,0 +1,3 @@
+\paper {
+  ragged-last = ##f
+}
